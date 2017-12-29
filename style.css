@@ -1,0 +1,29 @@
+$blue: #99ccff;
+
+body {
+  background-color: $blue;
+}
+
+h1 {
+  background-color: #000099;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  background-color: #ff3300;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  background-color: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
