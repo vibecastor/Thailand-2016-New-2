@@ -6,24 +6,45 @@ body {
 
 h1 {
   background-color: #000099;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
 
 h2 {
   background-color: #ff3300;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
 
 h3 {
   background-color: #ffffff;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin-top: 0px;
   margin-bottom: 0px;
+}
+
+p {
+  font-family: "Indie Flower", cursive;
+  font-size: 48px;
+}
+
+#myCarousel {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.col-sm-4 {
+  font-family: "Indie Flower", cursive;
+  font-size: 28px;
+}
+
+footer {
+  font-family: "Indie Flower", cursive;
+  font-size: 30px;
 }
